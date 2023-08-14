@@ -1,0 +1,14 @@
+D:\Chart2\trunk\GanttChartExample\bin\Debug\GanttChartExample.exe
+D:\Chart2\trunk\GanttChartExample\bin\Debug\GanttChartExample.pdb
+D:\Chart2\trunk\GanttChartExample\bin\Debug\GanttChart.dll
+D:\Chart2\trunk\GanttChartExample\bin\Debug\GanttChart.pdb
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.AssemblyReference.cache
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.ExampleSimple.resources
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.ExampleFull.resources
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.Properties.Resources.resources
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.GenerateResource.cache
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.CoreCompileInputs.cache
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.CopyComplete
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.exe
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\GanttChartExample.pdb
+D:\Chart2\trunk\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.Test.resources
