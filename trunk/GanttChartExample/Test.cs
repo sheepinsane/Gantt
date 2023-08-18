@@ -20,11 +20,12 @@ namespace Braincase.GanttChart
             // start a new Project and init the chart with the project
             _mManager = new ProjectManager();
             var mTask1 = new Task() { Name = "New Task" };
+
             _mManager.Add(mTask1);
             _mManager.SetStart(mTask1, TimeSpan.FromDays(14));
             _mManager.SetComplete(mTask1, 0.7f);
             //_mManager.SetDuration(mTask1, TimeSpan.FromDays(2));
-            _mManager.SetEnd(mTask1, TimeSpan.FromDays(17));
+            _mManager.SetEnd(mTask1, TimeSpan.FromDays(1798));
 
             _mManager.Start = DateTime.Now.AddDays(-14);
             _mManager.Now = TimeSpan.FromDays(14);

@@ -1,0 +1,14 @@
+D:\Gantt\trunk\ERP.FORM\bin\Debug\ERP.FORM.exe.config
+D:\Gantt\trunk\ERP.FORM\bin\Debug\ERP.FORM.exe
+D:\Gantt\trunk\ERP.FORM\bin\Debug\ERP.FORM.pdb
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.csproj.AssemblyReference.cache
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.frmCustomer.resources
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.Properties.Resources.resources
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.csproj.GenerateResource.cache
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.csproj.CoreCompileInputs.cache
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.exe
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.pdb
+D:\Gantt\trunk\ERP.FORM\bin\Debug\MaterialSkin.dll
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.csproj.CopyComplete
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.frmCustomerEdit.resources
+D:\Gantt\trunk\ERP.FORM\obj\Debug\ERP.FORM.frmCustomerSearch.resources
